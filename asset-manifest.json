@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.26838a49.css",
+    "main.js": "./static/js/main.1431565e.js",
+    "static/js/787.1e798670.chunk.js": "./static/js/787.1e798670.chunk.js",
+    "static/media/brick_background.jpg": "./static/media/brick_background.a5cbbd7e37b2054ccbae.jpg",
+    "static/media/flower1.png": "./static/media/flower1.afa1e3b30fa89a81872d.png",
+    "static/media/flower2.png": "./static/media/flower2.a13b4dff05b726a6d136.png",
+    "static/media/comb3.png": "./static/media/comb3.05ea55d8b5976c846649.png",
+    "static/media/comb2.png": "./static/media/comb2.ad754a07a2e69a38985c.png",
+    "static/media/HOT.png": "./static/media/HOT.558d2db12216379b7ed2.png",
+    "static/media/MS3_shelf_2.png": "./static/media/MS3_shelf_2.95e919017c1f67f01e0f.png",
+    "static/media/Baguette.png": "./static/media/Baguette.64df673face862ce480a.png",
+    "static/media/comb1.png": "./static/media/comb1.14119fe15d4d6baa0b2d.png",
+    "static/media/Bagel.png": "./static/media/Bagel.66b7655c201441b570bc.png",
+    "static/media/COLD.png": "./static/media/COLD.89849e7cc49b6a4853d4.png",
+    "static/media/BeaverTails.png": "./static/media/BeaverTails.76b1568b26c16e98ed96.png",
+    "static/media/Waffle.png": "./static/media/Waffle.f60281a29f34dfe48122.png",
+    "static/media/Pie.png": "./static/media/Pie.497d239d67a7ade46e5f.png",
+    "static/media/Muffins.png": "./static/media/Muffins.1f6ac721140c0e867bc1.png",
+    "static/media/iced_coffee.png": "./static/media/iced_coffee.f744a2674918a4e5ee7e.png",
+    "static/media/coffee.png": "./static/media/coffee.d300acebb677fdd1f6ca.png",
+    "static/media/tea.png": "./static/media/tea.62a340aa16479c1e440d.png",
+    "static/media/Croissants.png": "./static/media/Croissants.75e1421d9e4984b6ff60.png",
+    "static/media/nitro.png": "./static/media/nitro.d8c4410e90a0af9bdf65.png",
+    "static/media/Donut.png": "./static/media/Donut.843280a2ec03f53b3de7.png",
+    "static/media/frappuccino.png": "./static/media/frappuccino.8b831a0587f3b73e4dab.png",
+    "static/media/frappe.png": "./static/media/frappe.c6f26372f18bedaf085a.png",
+    "static/media/Cookies.png": "./static/media/Cookies.6192e73ab02864881493.png",
+    "index.html": "./index.html",
+    "main.26838a49.css.map": "./static/css/main.26838a49.css.map",
+    "main.1431565e.js.map": "./static/js/main.1431565e.js.map",
+    "787.1e798670.chunk.js.map": "./static/js/787.1e798670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26838a49.css",
+    "static/js/main.1431565e.js"
+  ]
+}
